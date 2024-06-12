@@ -25,9 +25,9 @@ header {
     margin: 0;
   }
   
-  header p {
-    text-align: center;
-    color: #a39191;
+ .paragraph {
+    text-align: left;
+    color: red;
     margin: 0;
   }
   
